@@ -1,0 +1,7 @@
+build/
+.venv/
+__pycache__/
+.DS_Store
+
+# Веса качает fetch_models.sh
+models/
